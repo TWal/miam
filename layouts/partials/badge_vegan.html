@@ -1,0 +1,5 @@
+<span title="{{ partial "pp_vegan.html" . }}">
+{{- if . | eq "vegan" -}} V
+{{- else if . | eq "veganisable" -}} v
+{{- end -}}
+</span>

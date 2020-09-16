@@ -1,0 +1,20 @@
+{{ define "content" }}
+{{ .Content }}
+
+{{ range where .Sections "Type" "==" "recettes" }}
+<h2>{{ .Title }}</h2>
+    {{ range sort .Sections "Params.index" }}
+    <h3>{{ .Title }}</h3>
+    <ul>
+        {{ range sort .Pages "Title" }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ with .Params.quali }} {{- partial "badge_quali.html" . -}} {{ end }}
+            {{ with .Params.vegan }} {{- partial "badge_vegan.html" . -}} {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+{{ end }}
+
+{{ end }}

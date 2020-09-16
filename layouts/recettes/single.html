@@ -1,0 +1,36 @@
+{{ define "title" }}
+{{- $.Site.Title }} — {{ .Page.Title -}}
+{{ end }}
+
+{{ define "content" }}
+    <h1> {{ .Params.title }} </h1>
+    <h2> Méta-données </h2>
+    {{ with .Params.portions }}
+        {{- if (and (isset . "qt") (isset . "nom")) -}}
+            Pour {{ .qt | markdownify }} {{ .nom | markdownify }}
+        {{- else -}}
+            Pour {{ . | markdownify }} personnes
+        {{- end -}}
+    <br /> {{ end }}
+    {{ with .Params.vegan }} {{- partial "pp_vegan.html" . -}} <br /> {{ end }}
+    {{ with .Params.quali }} Recette bien poncée <br /> {{ end }}
+    {{ with .Params.origine }} Origine :  {{ . | markdownify }} <br /> {{ end }}
+
+    <h2> Ingrédients </h2>
+
+    <table class="ingredients">
+        <tr>
+            <td>Quantité</td>
+            <td>Ingrédient</td>
+        </tr>
+        {{ range $.Param "ingredients" }}
+        <tr>
+            <td>{{ .qt | markdownify }}</td>
+            <td>{{ .nom | markdownify }}</td>
+            {{ with .comm }} <td>({{ . | markdownify }})</td> {{ end }}
+        </tr>
+        {{ end }}
+    </table>
+
+    {{ .Content }}
+{{ end }}
