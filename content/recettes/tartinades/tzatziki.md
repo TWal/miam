@@ -24,7 +24,7 @@ Recette
 -------
 
 1. Râper le concombre, et extraire son eau, pour ça deux options :
-  - presser la chaire dans un chinois (ou une passoire), saler, attendre 15min et presser (le sel fait ressortir l'eau)
+  - presser la chair dans un chinois (ou une passoire), saler, attendre 15min et presser (le sel fait ressortir l'eau)
   - même chose mais sans sel et en pressant plus longtemps (l'avantage étant qu'on obtient du jus de concombre non-salé qu'on peut réutiliser !)
 2. Hacher la menthe.
 3. Tout mélanger.

@@ -13,6 +13,8 @@ ingredients:
     qt: 1
   - nom: Farine
     qt: 275g
+  - nom: Fleur de sel
+    qt: 2g
   - nom: Vanille
     qt: QS
     comm: Utiliser de la vanille liquide, en poudre ou du sucre vanillé
