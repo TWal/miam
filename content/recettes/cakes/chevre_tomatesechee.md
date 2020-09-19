@@ -15,6 +15,8 @@ ingredients:
   - nom: Huile
     qt: 50g
     comm: 5càs, utiliser l'huile des tomates séchées
+  - nom: Tomate séchée
+    qt: 150g
   - nom: Bûche de chèvre
     qt: 200g
     comm: plutôt fondante de préférence
