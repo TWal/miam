@@ -19,17 +19,21 @@
     <h2> Ingrédients </h2>
 
     <table class="ingredients">
-        <tr>
-            <td>Quantité</td>
-            <td>Ingrédient</td>
-        </tr>
-        {{ range $.Param "ingredients" }}
-        <tr>
-            <td>{{ .qt | markdownify }}</td>
-            <td>{{ .nom | markdownify }}</td>
-            {{ with .comm }} <td>({{ . | markdownify }})</td> {{ end }}
-        </tr>
-        {{ end }}
+        <thead>
+            <tr>
+                <th>Quantité</th>
+                <th>Ingrédient</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range $.Param "ingredients" }}
+            <tr>
+                <td>{{ .qt | markdownify }}</td>
+                <td>{{ .nom | markdownify }}</td>
+                {{ with .comm }} <td>({{ . | markdownify }})</td> {{ end }}
+            </tr>
+            {{ end }}
+        </tbody>
     </table>
 
     {{ .Content }}
