@@ -12,6 +12,9 @@ ingredients:
     qt: 200g
   - nom: Pomme
     qt: 1
+  - nom: Oignon de Roscoff
+    qt: 1
+    comm: optionnel, ne pas substituer par un oignon blanc au risque de tuer la salade
   - nom: Vinaigrette
     qt: QS
 ---

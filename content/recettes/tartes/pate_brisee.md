@@ -40,3 +40,4 @@ Notes
 
 Les pâtes se congèlent très bien, ce qui permet de toujours avoir une pâte brisée maison sous la main.
 L'incrustation de fleur de sel et de poivre sur le dessous de la pâte permet de titiller la langue et est une addition très intéressante (qui fonctionne aussi sur les pâtes industrielles).
+Ce n'est pas la manière traditionnelle de faire une pâte brisée, mais cette méthode donne des résultats qui sont satisfaisant sans demander trop de temps par rapport à acheter une pâte brisée industrielle.

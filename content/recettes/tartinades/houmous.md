@@ -9,7 +9,7 @@ ingredients:
     comm : 1kg cuit
   - nom: Aquafaba
     qt: 200g
-    comm: eau de cuisson des pois-chiche
+    comm: eau de cuisson des pois-chiches, ou l'eau des conserves de pois-chiches
   - nom: Tahin
     qt: 350g
   - nom: Huile d'olive
