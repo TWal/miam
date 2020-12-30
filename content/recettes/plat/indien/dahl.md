@@ -29,7 +29,7 @@ Recette
 1. Faire revenir des épices dans de l'huile (attention à ne pas faire cramer non plus).
 2. Rajouter l'ail et/ou le gingembre haché.
 3. Rajouter les oignons émincés.
-4. Rajouter des légumes divers découpés coupés en bouts de taille raisonnable et les faire griller.
+4. Rajouter des légumes divers découpés en bouts de taille raisonnable et les faire griller.
 5. Rajouter 300g de lentilles corail et faire griller un peu quelques minutes.
 6. Rajouter de l'eau (couvrir d'un ou deux doigts, ou alors mettre deux fois le volume de lentilles) et laisser cuire les lentilles corail.
 7. Quand c'est cuit (ça va faire une sorte de purée), ajouter le lait de coco, saler et laisser un peu cuire.
