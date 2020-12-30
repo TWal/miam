@@ -1,4 +1,4 @@
 ---
 title: Gâteaux
-index: 100
+index: 20
 ---

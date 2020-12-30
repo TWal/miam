@@ -1,5 +1,5 @@
 ---
-title: "Dahl d'automne"
+title: "Dahl d'automne aux pois cassés"
 vegan: vegan
 origine: Invention personnelle
 portions: 4

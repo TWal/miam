@@ -2,7 +2,9 @@
 {{ .Content }}
 
 {{ range where .Sections "Type" "==" "recettes" }}
-<h2>{{ .Title }}</h2>
+  <h1>{{ .Title }}</h1>
+  {{ range sort .Sections "Params.index" }}
+  <h2>{{ .Title }}</h2>
     {{ range sort .Sections "Params.index" }}
     <h3>{{ .Title }}</h3>
     <ul>
@@ -15,6 +17,22 @@
         {{ end }}
     </ul>
     {{ end }}
+  {{ end }}
 {{ end }}
+
+{{ range where .Sections "Type" "==" "posts" }}
+  <h1>{{ .Title }}</h1>
+  {{ range sort .Sections "Params.index" }}
+  <h3>{{ .Title }}</h3>
+  <ul>
+      {{ range sort .Pages "Title" }}
+      <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+  </ul>
+  {{ end }}
+{{ end }}
+
 
 {{ end }}

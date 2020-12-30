@@ -1,1 +1,8 @@
-TODO SINGLE
+{{ define "title" }}
+{{- $.Site.Title }} — {{ .Page.Title -}}
+{{ end }}
+
+{{ define "content" }}
+    <h1> {{ .Params.title }} </h1>
+    {{ .Content }}
+{{ end }}

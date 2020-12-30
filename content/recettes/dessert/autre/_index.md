@@ -1,4 +1,4 @@
 ---
-title: Cakes
+title: Autre
 index: 30
 ---

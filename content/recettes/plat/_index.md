@@ -1,4 +1,4 @@
 ---
-title: Salades
+title: Plats
 index: 20
 ---

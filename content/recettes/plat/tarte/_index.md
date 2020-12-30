@@ -1,4 +1,4 @@
 ---
-title: Gratins
+title: Tartes
 index: 40
 ---

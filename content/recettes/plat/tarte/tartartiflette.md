@@ -4,7 +4,7 @@ quali: true
 origine: Invention personnelle
 portions: 4
 ingredients:
-  - nom: "[Pâte brisée](/recettes/tartes/pate_brisee/)"
+  - nom: "[Pâte brisée](/recettes/plat/tarte/pate_brisee/)"
     qt: 1
   - nom: Oignon
     qt: 1kg
