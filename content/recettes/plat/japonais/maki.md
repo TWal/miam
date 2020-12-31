@@ -22,11 +22,11 @@ ingredients:
 Recette
 -------
 
-Pour estimer le nombre de rouleaux à faire, il faut savoir qu'un rouleau produit 6 makis, et qu'une personne peut manger entre 6 et 12 makis selon l'appetit de la-dite personne (me concernant, je m'en compte 12…).
+Pour estimer le nombre de rouleaux à faire, il faut savoir qu'un rouleau produit 6 makis, et qu'une personne peut manger entre 6 et 12 makis selon l'appétit de la-dite personne (me concernant, je m'en compte 12…).
 
 Préparation du riz à sushi :
 1. Mettre le riz dans la casserole où il va cuire, et bien le laver : pour cela, je met un peu d'eau pour que le riz soit bien mouillé mais pas submergé, je gratte bien avec mes 5 doigts, je rajoute de l'eau en continuant de remuer puis je filtre l'eau avec mes doigts (parce que j'ai la flemme de devoir laver une passoire pour ça). Répéter le processus 4 ou 5 fois, quand l'eau devient moins trouble.
-2. Mettre l'eau dans la casserole (1.5 fois la masse de riz), optionellement laisser reposer 30min (ou moins longtemps si pas le temps). Attention, ne pas saler l'eau !
+2. Mettre l'eau dans la casserole (1.5 fois la masse de riz), optionnellement laisser reposer 30min (ou moins longtemps si pas le temps). Attention, ne pas saler l'eau !
 3. Mettre la casserole sur le feu à feu fort avec un couvercle, et quand on entend l'eau bouillir (ça fait blop blop), mettre à feu doux (éviter de soulever le couvercle pendant la cuisson).
 4. Pendant la cuisson, découper vos garnitures (voir la suite).
 5. Quand le "blop blop" s'arrête (environ au bout de 10min), retirer du feu et laisser reposer une dizaine de minutes (sans enlever le couvercle).
@@ -34,7 +34,7 @@ Préparation du riz à sushi :
 
 Découpage de la garniture :
 - Il ne faut pas viser de trop grosses quantités, par exemple une demi-carotte est amplement suffisante pour garnir un rouleau de maki.
-- Dans la mesure du possible, essayer de découper des batons de garnitures "carrés", de façon à ce qu'ils s'empilent bien.
+- Dans la mesure du possible, essayer de découper des bâtons de garnitures "carrés", de façon à ce qu'ils s'empilent bien.
 
 Roulage des makis :
 1. Mise en place : à gauche, les algues nori et les garnitures, à droite, le riz à sushi et un bol d'eau (pour se nettoyer les mains), au centre, les nattes à makis.
@@ -46,7 +46,7 @@ Roulage des makis :
 7. Presser le maki : avec les nattes, presser avec les deux mains au bord du rouleau (et pas au centre, sinon la garniture risque de "glisser" et sortir par les bords !) pour évacuer l'air entre le riz et la garniture, et ainsi avoir un maki qui se tient bien.
 
 Découpage du maki :
-1. Avec un couteau bien affuté (si cet objet n'est pas disponible, utiliser un couteau à dents est probablement une meilleure option), couper le rouleau de maki en deux (en effectuant des mouvements de scie pour ne pas l'écraser), puis chaque partie en trois (pour le découper en 6 portions égales).
+1. Avec un couteau bien affûté (si cet objet n'est pas disponible, utiliser un couteau à dents est probablement une meilleure option), couper le rouleau de maki en deux (en effectuant des mouvements de scie pour ne pas l'écraser), puis chaque partie en trois (pour le découper en 6 portions égales).
 2. Laver le couteau à l'eau (pour qu'il colle moins au riz) et passer au rouleau suivant.
 
 Idées de garniture (attention pour les personnes psychorigides, ce n'est pas très conventionnel) :
@@ -66,6 +66,6 @@ On peut facilement utiliser un léger surplus de riz en faisant des sushis. Pour
 "Ne surtout pas soulever le couvercle !!!!"
 -------------------------------------------
 
-Sur internet on peut voir ce dogme écrit un peu partout, comme quoi le riz sera totalement raté si vous soulevez le courvercle ne serait-ce qu'une fraction de seconde pendant sa cuisson.
+Sur internet on peut voir ce dogme écrit un peu partout, comme quoi le riz sera totalement raté si vous soulevez le couvercle ne serait-ce qu'une fraction de seconde pendant sa cuisson.
 En réalité, le riz supportera très bien cette légère inconvenance, il n'y a pas de quoi s'inquiéter.
 Une fois où j'avais vraiment fait n'importe quoi, le riz n'était pas tout à fait cuit au centre des grains ce qui le rendait un peu "al-dente" : certes, ce n'était pas optimal, mais pas ce n'était pas à jeter à la poubelle pour autant.

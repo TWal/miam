@@ -1,5 +1,5 @@
 ---
-title: Gateau de légumes d'automne et polenta
+title: Gâteau de légumes d'automne et polenta
 origine: Adaptée du livre "Recettes végétariennes inratables"
 portions: 4
 ingredients:

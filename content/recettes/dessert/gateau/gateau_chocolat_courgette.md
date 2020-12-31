@@ -1,5 +1,5 @@
 ---
-title: Gateau chocolat et courgette
+title: Gâteau chocolat et courgette
 quali: true
 origine: Adaptée du livre "Recettes végétariennes inratables"
 portions: 8

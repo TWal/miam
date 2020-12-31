@@ -30,7 +30,7 @@ Recette
 3. Ajouter l'œuf et mélanger.
 4. Mélanger la farine et la levure chimique, tamiser au dessus du mélange précédent. Mélanger jusqu'à que ce soit homogène (ne pas mélanger plus que nécessaire pour ne pas trop travailler la pâte).
 5. Rajouter le chocolat en pépites et mélanger.
-6. Faire des boules de taille raisonnable (e.g. 3-4cm de diamètre), les disposer sur une plaque en les espacant suffisamment.
+6. Faire des boules de taille raisonnable (e.g. 3-4cm de diamètre), les disposer sur une plaque en les espaçant suffisamment.
 7. Faire cuire 15 à 20 minutes à 140⁰C. En sortie de four les cookies sont mous, c'est normal, ils vont durcir en refroidissant.
 
 Notes

@@ -37,7 +37,7 @@ Un petit plus esthétique
 
 Pour avoir une belle ouverture du gâteau sur le dessus, deux options :
 - avec manipulation pendant la cuisson : au bout de 10min de cuisson, inciser le dessus du quatre-quart sur la longueur avec un couteau.
-- sans manipulation pendant la cuisson : juste avant la cuisson, disposer un filet de beurre pommade sur le dessus : pour cela, prélever quelques grammes de beurre au début de la recette, le mettre dans un cornet (bricolé avec du papier sulfurisé) et le faire chauffer jusqu'à ce qu'il ait la consistence pommade.
+- sans manipulation pendant la cuisson : juste avant la cuisson, disposer un filet de beurre pommade sur le dessus : pour cela, prélever quelques grammes de beurre au début de la recette, le mettre dans un cornet (bricolé avec du papier sulfurisé) et le faire chauffer jusqu'à ce qu'il ait la consistance pommade.
 
 Un vrai quatre quart
 --------------------
