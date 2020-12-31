@@ -38,3 +38,10 @@ Recette
 6. Rajouter de l'eau (couvrir d'un ou deux doigts) et laisser cuire les lentilles.
 7. Lancer la [cuisson du quinoa](/posts/technique/cuisson_quinoa/).
 8. Quand c'est cuit (goûter la consistence des lentilles et des légumes), ajouter le lait de coco et les tomates concassées, saler poivrer et laisser un peu cuire.
+
+Un peu plus de croquant
+-----------------------
+
+J'ai l'habitude de rajouter quelque chose d'un peu plus croquant dedans, avant de servir :
+- Option saine : des cacahuètes non-grillées, non-salées, ça fait encore plus de protéines !
+- Option gourmande : des oignons frits (de toute façon, cette recette manquait de gras).

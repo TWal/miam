@@ -39,6 +39,16 @@ Pour avoir une belle ouverture du gâteau sur le dessus, deux options :
 - avec manipulation pendant la cuisson : au bout de 10min de cuisson, inciser le dessus du quatre-quart sur la longueur avec un couteau.
 - sans manipulation pendant la cuisson : juste avant la cuisson, disposer un filet de beurre pommade sur le dessus : pour cela, prélever quelques grammes de beurre au début de la recette, le mettre dans un cornet (bricolé avec du papier sulfurisé) et le faire chauffer jusqu'à ce qu'il ait la consistence pommade.
 
+Un vrai quatre quart
+--------------------
+
+Un vrai quatre quart, comme le nom l'indique, est composé de… quatre quarts. C'est pour ça que traditionnellement, il faut peser les œufs, et ajuster le poids des autres ingrédients selon le poids des œufs.
+
+Ici, en séparant le blanc des jaunes, c'est un peu pénible, et il n'y a pas de méthode entièrement satisfaisantes, je liste ici les différentes possibilités :
+- Version calcul mental (soustraction) : peser le saladier des blancs, tarer la balance avec le saladier des jaunes, séparer les blancs des jaunes, et ensuite peser le saladier des blancs plein. À la fin, on a le poids du saladier des blancs vide, le poids du saladier des blancs plein, le poids des jaunes, et on peut retrouver le poids des œufs.
+- Version vaisselle : Mettre les blancs dans un autre contenant. Une fois qu'on a le poids des jaunes, on peut facilement avoir le poids des blancs en tarant la balance et en les versant dans leur saladier.
+- Version approximative : peser les œufs avant de les casser, et enlever 20g (une coquille d'œuf pèse environ 5g).
+
 Notes
 -----
 

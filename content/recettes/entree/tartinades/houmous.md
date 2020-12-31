@@ -31,8 +31,16 @@ ingredients:
 Recette
 -------
 
+Cuisson des pois-chiche :
+1. Laisser tremper les pois-chiche au moins 8 heures (en cas d'urgence ça peut se raccourcir si pas le temps mais c'est pas terrible), par exemple pendant la nuit. Mettre une belle quantité d'eau, les pois-chiche vont beaucoup absorber.
+2. Vider l'eau de trempage avec une passoire.
+3. Mettre les pois-chiches dans une casserole avec de l'eau (juste assez pour submerger les pois-chiches). Pour optimiser la cuisson, il vaut mieux ne pas mettre de sel dans l'eau de cuisson.
+4. Quand c'est cuit (au bout d'une vingtaine de minutes, le mieux est de goûter un pois-chiche pour tester la cuisson), séparer les pois-chiches de l'aquafaba (leur eau de cuisson), par exemple en mettant la passoire dans un saladier.
+
+Le houmous (certaines étapes peuvent être faites pendant la cuisson des pois-chiches !) :
 1. Faire infuser l'ail, le cumin, le poivre dans l'huile chaude.
-2. Tout mixer.
+2. Mélanger tous les ingrédients, et mixer.
+3. Éventuellement incorporer plus d'aquafaba selon la texture recherchée.
 
 Notes
 -----
