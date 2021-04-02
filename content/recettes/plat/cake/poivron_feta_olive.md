@@ -4,13 +4,13 @@ origine: Invention personnelle
 portions: 4
 ingredients:
   - nom: Farine
-    qt: 150g
+    qt: 200g
   - nom: Levure chimique
     qt: 10g
   - nom: Œuf
     qt: 3
   - nom: Lait
-    qt: 125g
+    qt: 150g
   - nom: Gruyère râpé
     qt: 100g
   - nom: Feta

@@ -5,7 +5,7 @@ origine: Ma Maman <3
 portions: 4
 ingredients:
   - nom: Farine
-    qt: 150g
+    qt: 200g
   - nom: Levure chimique
     qt: 10g
   - nom: Œuf
@@ -13,13 +13,13 @@ ingredients:
   - nom: Lait
     qt: 200g
   - nom: Gruyère râpé
-    qt: 100g
+    qt: 150g
   - nom: Bleu d'auvergne
     qt: 150g
   - nom: Figue séchée
-    qt: 50g
+    qt: 100g
   - nom: Noix concassée
-    qt: 30g
+    qt: 50g
   - nom: Sel
     qt: QS
   - nom: Poivre

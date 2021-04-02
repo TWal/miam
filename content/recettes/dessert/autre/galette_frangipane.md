@@ -36,3 +36,8 @@ Notes
 Pour réchauffer la galette les jours suivant sa création, préférer le four quelques minutes plutôt que le micro-ondes : cela redonnera de la croustillance à la pâte feuilletée (et c'est significativement moins bon quand elle est molle).
 
 Si on n'a pas de fève, on peut improviser une fève comestible : une amande, une noix ou une noisette fera parfaitement l'affaire !
+
+Petite précision sur la nomanclature
+------------------------------------
+
+La garniture de cette galette est composée uniquement de crème d'amande, alors que la frangipane est composée à 2/3 de crème d'amande et 1/3 de crème pâtissière. Cette galette est donc en réalité un [pithiviers](https://fr.wikipedia.org/wiki/Pithiviers_(p%C3%A2tisserie)).
