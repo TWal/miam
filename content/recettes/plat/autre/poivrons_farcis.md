@@ -2,6 +2,7 @@
 title: Poivrons farcis
 vegan: vegan
 origine: Adaptée du livre "Recettes végétariennes inratables"
+photo: true
 portions: 4
 ingredients:
   - nom: Ail

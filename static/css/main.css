@@ -50,3 +50,5 @@ table.ingredients {
       @media (min-width: 420px) {
         table.ingredients td:nth-child(2), table.ingredients th:nth-child(2) {
           white-space: nowrap; } }
+img {
+  max-width: 100%; }

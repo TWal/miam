@@ -1,6 +1,7 @@
 ---
 title: Tarte champignon reblochon
 origine: Adaptée du livre "Recettes végétariennes inratables"
+photo: true
 portions: 4
 ingredients:
   - nom: "[Pâte brisée](/recettes/plat/tarte/pate_brisee/)"

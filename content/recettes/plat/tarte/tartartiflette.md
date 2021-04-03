@@ -1,6 +1,7 @@
 ---
 title: Tartartiflette
 quali: true
+photo: true
 origine: Invention personnelle
 portions: 4
 ingredients:

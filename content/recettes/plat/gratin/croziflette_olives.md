@@ -2,6 +2,7 @@
 title: Croziflette aux olives
 quali: true
 origine: Invention personnelle / adaptation d'un grand classique
+photo: true
 portions: 8
 ingredients:
   - nom: Crozet

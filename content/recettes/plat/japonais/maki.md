@@ -1,6 +1,7 @@
 ---
 title: "Maki"
 vegan: veganisable
+photo: true
 origine: Adaptation personelle de ce que l'on peut trouver sur l'internet mondial
 portions:
     qt: 1

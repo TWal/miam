@@ -4,6 +4,11 @@
 
 {{ define "content" }}
     <h1> {{ .Params.title }} </h1>
+    {{ if .Params.photo }}
+        <a href="/media/{{ .File.Dir }}{{ .File.BaseFileName }}/main.orig.jpg" title="Photo en plus grand">
+            <img alt="Photo de la recette" src="/media/{{ .File.Dir }}{{ .File.BaseFileName }}/main.min.jpg" />
+        </a>
+    {{ end }}
     <h2> Méta-données </h2>
     {{ with .Params.portions }}
         {{- if (and (isset . "qt") (isset . "nom")) -}}

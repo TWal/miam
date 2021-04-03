@@ -3,6 +3,7 @@ title: Dahl
 quali: true
 vegan: vegan
 origine: Recette indienne classique
+photo: true
 portions: 4
 ingredients:
   - nom: Oignon
