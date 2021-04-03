@@ -2,6 +2,7 @@
 title: Tarte poireaux chèvre miel
 quali: true
 origine: Adaptée du livre "Recettes végétariennes inratables"
+photo: true
 portions: 4
 ingredients:
   - nom: "[Pâte brisée](/recettes/plat/tarte/pate_brisee/)"
@@ -32,3 +33,5 @@ Recette
 5. Étaler les poireaux dans la pâte à tarte, et ajouter l'appareil.
 6. Répartir les tranches de chèvre sur le dessus (un au centre et les autres en cercle autour) et mettre un peu de miel sur chaque.
 7. Enfourner 20min à 180.
+
+{{< img "macro" >}}

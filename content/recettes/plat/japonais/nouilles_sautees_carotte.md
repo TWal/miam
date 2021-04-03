@@ -3,6 +3,7 @@ title: Nouilles sautées aux carottes
 quali: true
 vegan: vegan
 origine: Adaptée du livre "Recettes végétariennes inratables"
+photo: true
 portions: 2
 ingredients:
   - nom: Nouille soba

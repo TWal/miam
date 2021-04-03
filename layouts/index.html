@@ -13,6 +13,7 @@
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             {{ with .Params.quali }} {{- partial "badge_quali.html" . -}} {{ end }}
             {{ with .Params.vegan }} {{- partial "badge_vegan.html" . -}} {{ end }}
+            {{ with .Params.photo }} {{- partial "badge_photo.html" . -}} {{ end }}
         </li>
         {{ end }}
     </ul>

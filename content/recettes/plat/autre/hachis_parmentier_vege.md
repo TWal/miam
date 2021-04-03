@@ -3,6 +3,7 @@ title: Hachis parmentier végétarien
 quali: true
 vegan: veganisable
 origine: Invention personnelle
+photo: true
 portions: 8
 ingredients:
   - nom: Oignon
