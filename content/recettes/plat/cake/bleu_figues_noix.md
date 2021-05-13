@@ -16,6 +16,7 @@ ingredients:
     qt: 150g
   - nom: Bleu d'auvergne
     qt: 150g
+    comm: ou autre fromage bleu
   - nom: Figue séchée
     qt: 100g
   - nom: Noix concassée
