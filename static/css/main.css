@@ -34,21 +34,31 @@ table.ingredients {
     border-bottom: 1px solid black; }
   table.ingredients tbody tr:first-child td {
     padding-top: 1ex; }
-  table.ingredients td, table.ingredients th {
+  table.ingredients tbody tr:last-child td {
+    padding-bottom: 2ex; }
+  table.ingredients tbody:last-child tr:last-child td {
+    padding-bottom: 0; }
+  table.ingredients tr.ingredient td, table.ingredients tr.ingredient th {
     padding-top: 0.5ex;
     vertical-align: top;
     padding-left: 0.5em;
     padding-right: 0.5em; }
-    table.ingredients td:first-child, table.ingredients th:first-child {
+    table.ingredients tr.ingredient td:first-child, table.ingredients tr.ingredient th:first-child {
       text-align: right;
       padding-left: 0; }
       @media (min-width: 420px) {
-        table.ingredients td:first-child, table.ingredients th:first-child {
+        table.ingredients tr.ingredient td:first-child, table.ingredients tr.ingredient th:first-child {
           white-space: nowrap; } }
-    table.ingredients td:nth-child(2), table.ingredients th:nth-child(2) {
+    table.ingredients tr.ingredient td:nth-child(2), table.ingredients tr.ingredient th:nth-child(2) {
       text-align: left; }
       @media (min-width: 420px) {
-        table.ingredients td:nth-child(2), table.ingredients th:nth-child(2) {
+        table.ingredients tr.ingredient td:nth-child(2), table.ingredients tr.ingredient th:nth-child(2) {
           white-space: nowrap; } }
+  table.ingredients tr.section th {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    text-align: center;
+    font-weight: normal; }
+
 img {
   max-width: 100%; }
