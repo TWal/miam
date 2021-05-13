@@ -51,26 +51,43 @@ table.ingredients {
         padding-top: $ingredient_vertical_space_line/2;
     }
 
-    td, th  {
-        padding-top: $ingredient_vertical_space/2;
-        vertical-align: top;
-        padding-left: $ingredient_horizontal_space/2;
-        padding-right: $ingredient_horizontal_space/2;
+    tbody tr:last-child td {
+        padding-bottom: $section_vertical_space;
+    }
 
-        &:first-child {
-            text-align: right;
-            @media (min-width: $width_med) {
-                white-space: nowrap;
-            }
-            padding-left: 0;
-        }
+    tbody:last-child tr:last-child td {
+        padding-bottom: 0;
+    }
 
-        &:nth-child(2) {
-            text-align: left;
-            @media (min-width: $width_med) {
-                white-space: nowrap;
+    tr.ingredient {
+        td, th  {
+            padding-top: $ingredient_vertical_space/2;
+            vertical-align: top;
+            padding-left: $ingredient_horizontal_space/2;
+            padding-right: $ingredient_horizontal_space/2;
+
+            &:first-child {
+                text-align: right;
+                @media (min-width: $width_med) {
+                    white-space: nowrap;
+                }
+                padding-left: 0;
+            }
+
+            &:nth-child(2) {
+                text-align: left;
+                @media (min-width: $width_med) {
+                    white-space: nowrap;
+                }
             }
         }
+    }
+
+    tr.section th {
+        border-bottom: 1px solid black;
+        border-top: 1px solid black;
+        text-align: center;
+        font-weight: normal;
     }
 }
 

@@ -25,18 +25,26 @@
 
     <table class="ingredients">
         <thead>
-            <tr>
+            <tr class="ingredient">
                 <th>Quantité</th>
                 <th>Ingrédient</th>
             </tr>
         </thead>
         <tbody>
             {{ range $.Param "ingredients" }}
-            <tr>
+            {{- if (isset . "section") -}}
+            {{ if not (and (isset (index $.Params.ingredients 0) "section") (eq (index $.Params.ingredients 0).section .section)) }}
+        </tbody>
+        <tbody>
+            {{ end }}
+            <tr class="section"><th colspan="2">{{ .section | markdownify }}</th></tr>
+            {{- else -}}
+            <tr class="ingredient">
                 <td>{{ .qt | markdownify }}</td>
                 <td>{{ .nom | markdownify }}</td>
                 {{ with .comm }} <td>({{ . | markdownify }})</td> {{ end }}
             </tr>
+            {{ end }}
             {{ end }}
         </tbody>
     </table>
