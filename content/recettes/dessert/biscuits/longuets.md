@@ -2,6 +2,7 @@
 title: Longuets / zézettes de Sète
 vegan: vegan
 origine: "[La cuisine de Bernard](https://www.lacuisinedebernard.com/2016/12/zezettes-de-sete.html)"
+photo: true
 portions:
     qt: 50
     nom: longuets

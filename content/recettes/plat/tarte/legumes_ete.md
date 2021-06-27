@@ -1,6 +1,7 @@
 ---
 title: Tarte aux légumes d'été
 origine: Invention personnelle
+photo: true
 portions: 4
 ingredients:
   - nom: "[Pâte brisée](/recettes/plat/tarte/pate_brisee/)"
