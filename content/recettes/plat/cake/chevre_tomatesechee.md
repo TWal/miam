@@ -2,6 +2,7 @@
 title: Cake chèvre tomates séchées
 quali: true
 origine: Adaptée du livre "Recettes végétariennes inratables"
+photo: true
 portions: 4
 ingredients:
   - nom: Farine

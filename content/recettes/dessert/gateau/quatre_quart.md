@@ -2,6 +2,7 @@
 title: Quatre quart
 quali: true
 origine: Adaptation personelle de ce que l'on peut trouver sur l'internet mondial
+photo: true
 portions: 4
 ingredients:
   - nom: Farine
