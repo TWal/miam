@@ -1,6 +1,7 @@
 ---
 title: Riz à l'œuf
 origine: Invention personnelle
+photo: true
 portions: 1
 ingredients:
   - nom: Riz
