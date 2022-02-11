@@ -6,7 +6,8 @@
         <base href="{{ .Site.BaseURL }}">
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
         <link rel="canonical" href="{{ .Permalink }}">
-        <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+        {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+        <link rel="stylesheet" href="{{ $style.Permalink }}">
         <link rel="icon" type="image/png" href="{{ "/images/favicon-32x32.png" | absURL }}" sizes="32x32">
         <link rel="icon" type="image/png" href="{{ "/images/favicon-16x16.png" | absURL }}" sizes="16x16">
 
