@@ -14,7 +14,7 @@
         {{- if (and (isset . "qt") (isset . "nom")) -}}
             Pour {{ .qt | markdownify }} {{ .nom | markdownify }}
         {{- else -}}
-            Pour {{ . | markdownify }} personnes
+            Pour {{ . | markdownify }} personne{{- if not (eq . 1) -}}s{{- end -}}
         {{- end -}}
     <br /> {{ end }}
     {{ with .Params.vegan }} {{- partial "pp_vegan.html" . -}} <br /> {{ end }}
