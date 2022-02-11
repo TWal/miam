@@ -24,6 +24,7 @@ ingredients:
     qt: 80g
   - nom: Cassonade
     qt: QS
+    comm: environ 125g
 ---
 
 Recette
