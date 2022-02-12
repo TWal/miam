@@ -1,4 +1,4 @@
 ---
 title: Tartes
-index: 25
+index: 15
 ---

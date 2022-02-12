@@ -1,4 +1,4 @@
 ---
-title: Gâteaux
+title: Gâteaux simples
 index: 20
 ---
