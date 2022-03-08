@@ -11,7 +11,7 @@ ingredients:
   - nom: Poudre d'amande
     qt: 70g
   - nom: Fécule de maïs
-    qt: 150g
+    qt: 15g
   - nom: Blanc d'œuf
     qt: 3
   - nom: Sucre
