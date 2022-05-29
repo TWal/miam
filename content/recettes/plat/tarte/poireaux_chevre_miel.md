@@ -10,12 +10,15 @@ ingredients:
   - nom: Poireau
     qt: 2
   - nom: Bûche de chèvre
-    qt: 200g
+    qt: 400g
+    comm: deux bûches de 200g
   - nom: Œuf
-    qt: 2
+    qt: 3
   - nom: Crème fraîche
     qt: 20cL
   - nom: Miel
+    qt: QS
+  - nom: Huile d'olive
     qt: QS
   - nom: Sel
     qt: QS
@@ -26,12 +29,12 @@ ingredients:
 Recette
 -------
 
-1. Laver, couper et faire cuire les poireaux dans de l'huile poivrée.
-2. Préparer l'appareil : mélanger les œufs, la crème et le miel. Saler poivrer.
-3. Découper le chèvre en 9 rondelles (ou 2k+1 si k est le nombre de personnes qui mangent la tarte).
+1. Laver, couper et faire cuire les poireaux dans de l'huile d'olive.
+2. Préparer l'appareil : mélanger les œufs, la crème et le miel. Saler poivrer. Rajouter 200g de chèvre coupé en petits morceaux.
+3. Découper le reste de chèvre en 9 rondelles (ou 2k+1 si k est le nombre de personnes qui mangent la tarte).
 4. Pré-cuire la pâte à tarte.
-5. Étaler les poireaux dans la pâte à tarte, et ajouter l'appareil.
-6. Répartir les tranches de chèvre sur le dessus (un au centre et les autres en cercle autour) et mettre un peu de miel sur chaque.
+5. Quand les poireaux sont cuits, hors du feu, verser l'appareil leur cassorole, bien mélanger puis verser dans la pâte à tarte.
+6. Répartir les tranches de chèvre sur le dessus (un au centre et les autres en cercle autour).
 7. Enfourner 20min à 180.
 
 {{< img "macro" >}}

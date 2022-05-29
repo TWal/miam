@@ -37,11 +37,16 @@ ingredients:
     qt: 150g
   - nom: Kirsch
     qt: 10g
+  - section: Pâte d'amande
+  - nom: Poudre d'amande
+    qt: 50g
+  - nom: Sucre glace
+    qt: 100g
+  - nom: Eau
+    qt: QS
   - section: Montage
   - nom: Fraises
-    qt: 250g
-  - nom: Pâte d'amande
-    qt: QS
+    qt: 500g
 ---
 
 Recette
@@ -67,15 +72,40 @@ Crème mousseline, étape 2 (émulsion de la crème pâtissière avec le beurre 
 Sirop :
 1. Tout mélanger dans une casserole, mettre à chauffer pour dissoudre le sucre.
 
+Pâte d'amande :
+1. Mélanger la poudre d'amande et le sucre glace.
+2. Rajouter l'eau petit à petit tout en mélangeant régulièrement jusqu'à avoir une bonne consistance (il en faut très peu, entre 10g et et 15g).
+3. Étaler avec un rouleau à pâtisserie en utilisant du sucre glace pour que ça ne colle pas.
+4. Découper un cercle avec le cercle à entremet, un peu comme si c'était un emporte-pièce.
+
 Montage :
-1. Couper une partie des fraises en deux (pour le bord), une partie en petits cubes (pour l'intérieur), et en garder quelques unes entière (pour le dessus).
+1. Couper une partie des fraises en deux et égaliser leur hauteur (pour le bord), une partie en petits cubes (pour l'intérieur), et en garder quelques unes entière (pour le dessus). Si les fraises sont de tailles variées, j'utilise les moyennes et les plus jolies pour le bord, les grosses pour le milieu, et les petites pour le dessus.
 2. Couper la génoise en deux disques, à l'aide d'un couteau à pain (ou à défaut un couteau à dents), en procédant horizontalement (c'est pas super intuitif, mais la découpe est plus précise ainsi). Découper chaque disque avec des ciseaux pour obtenir des disques un peu plus petits que le cercle à entremet.
 3. Poser le cercle à entremet sur une surface transportable, avec un papier rhodoïd sur le bord intérieur.
 4. Poser le premier disque de génoise dans le cercle à entremet, l'imbiber de sirop à l'aide d'un pinceau. Poser les demi-fraises sur le bord, entre la génoise et le cercle.
-5. À l'aide d'une poche à douille (avec un grosse douille unie, e.g. 14mm), faire une couche de crème mousseline en faisant attention à bien remplir les trous entre les fraises.
+5. À l'aide d'une poche à douille (avec une douille unie de 10mm), faire une couche de crème mousseline en faisant attention à bien remplir les trous entre les fraises.
 6. Répartir les cubes de fraise sur la crème mousseline.
 7. Ajouter le deuxième disque de génoise par dessus, l'imbiber de sirop à l'aide d'un pinceau.
 8. Tout recouvrir de crème mousseline, bien lisser le dessus du cercle à l'aide d'une spatule (idéalement assez grande pour pouvoir racler sur les bords du cercle et avoir un dessus bien lisse).
-9. Optionellement, étaler de la pâte d'amande en cercle en poser dessus (je préfère sans).
-10. Décorer avec des fraises le dessus.
-11. Mettre au frigo quelques heures.
+9. (On peut mettre au frigo maintenant et faire les dernières étapes après.)
+10. Poser le cercle de pâte d'amande sur le dessus.
+11. Décorer avec des fraises le dessus.
+12. Mettre au frigo quelques heures.
+
+Ordre des étapes
+----------------
+
+La crème pâtissière met un peu de temps à refroidir :
+j'aime bien la faire en premier, et faire la génoise pendant qu'elle refroidit.
+Ça permet d'éviter les temps morts dans la préparation.
+
+Bain-marie pour la génoise
+--------------------------
+
+À quoi sert ce bain-marie ?
+Le but est d'obtenir plus rapidement l'aspect mousseux.
+On peut faire une génoise sans bain-marie, mais ça prend beaucoup plus de temps.
+
+Il y a diverses façons d'adapter ce procédé :
+- j'ai vu des personnes boucher leur évier, le remplir d'eau chaude et battre les œufs dedans,
+- pour ma part je fais un bain-marie en utilisant la cuve du robot jusqu'à 45 degrés, puis je sors du bain-marie et je fouette au robot.

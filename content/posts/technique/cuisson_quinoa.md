@@ -7,7 +7,7 @@ La technique suivante est mon adaptation personnelle de [cet article sur la cuis
 Peser le quinoa
 ---------------
 
-Je préfère toujours peser le quinoa, comme tout type de graine (riz, lentilles, …, même les pâtes), plutôt que de le faire "à l'œil" pour être plus consistent sur les proportions du plat que je prépare (et aussi, j'ai pu constater que le "à l'œil" quand on a faim est beaucoup plus gros que le "à l'œil" en temps normal…).
+Je préfère toujours peser le quinoa, comme tout type de graine (riz, lentilles, …, même les pâtes), plutôt que de le faire "à l'œil" pour être plus régulier sur les proportions du plat que je prépare (et aussi, j'ai pu constater que le "à l'œil" quand on a faim est beaucoup plus gros que le "à l'œil" en temps normal…).
 
 Ici, ça a un autre intérêt : il est important de connaître sa masse pour mettre la bonne quantité d'eau.
 
@@ -16,11 +16,11 @@ Laver le quinoa
 
 Laver le quinoa est important, sinon il aura un mauvais goût amer !
 
-Mettre le quinoa dans la casserole où il va cuire, le submerger d'eau, touiller et vider l'eau dans l'évier en filtrant avec la main. Répéter 2 ou 3 fois.
+Mettre le quinoa dans la casserole où il va cuire, le submerger d'eau, touiller et vider l'eau dans l'évier. Répéter 2 ou 3 fois.
 
-Pourquoi ne pas utiliser une passoire ? Parce que les grains de quinoa sont fins et ont tendance à passer à travers les trous. Pourquoi ne pas utiliser un chinois ? Pour éviter de passer trois heures à nettoyer le petit grain de quinoa qui est resté coincé dedans. Pour ces raisons, je trouve que ma main est une excellente passoire.
-
-Il y a souvent des petits grains de quinoa (que je surnomme "les gros relous") qui flottent à la surface de l'eau, et qui refusent de rester au fond de la casserole comme les gentils autres grains de quinoa. Œil pour œil, dent pour dent, je décide de les verser dans l'évier : ça représente une quantité de quinoa négligeable, et ils n'embêteront pas pour filtrer l'eau. Ainsi, on peut enlever la majorité de l'eau sans la main avec un bon débit, et mettre la main au dernier moment quand il ne reste presque plus d'eau.
+Comment vider l'eau dans l'évier sans vider le quinoa dans l'évier ?
+On peut utiliser [une technique Shadok](https://www.youtube.com/watch?v=1Duiup2tWKA), et sélectionner un récipient avec des trous plus petits que le diamètre d'un grain de quinoa, mais plus grands qu'une molécule d'eau.
+Une passoire ne satisfait que rarement la première hypothèse (les grains de quinoa sont petits), ainsi on préfèrera utiliser un chinois, ou à défaut, sa main avec les doigts a peine écartés.
 
 Peser l'eau
 -----------
