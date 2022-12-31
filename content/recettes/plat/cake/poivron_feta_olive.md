@@ -2,6 +2,7 @@
 title: Cake poivron feta olives
 origine: Invention personnelle
 portions: 4
+photo: true
 ingredients:
   - nom: Farine
     qt: 200g
