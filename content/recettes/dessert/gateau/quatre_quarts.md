@@ -1,5 +1,5 @@
 ---
-title: Quatre quart
+title: Quatre-quarts
 quali: true
 origine: Adaptation personelle de ce que l'on peut trouver sur l'internet mondial
 photo: true
@@ -37,13 +37,13 @@ Un petit plus esthétique
 ------------------------
 
 Pour avoir une belle ouverture du gâteau sur le dessus, deux options :
-- avec manipulation pendant la cuisson : au bout de 10min de cuisson, inciser le dessus du quatre-quart sur la longueur avec un couteau.
+- avec manipulation pendant la cuisson : au bout de 10min de cuisson, inciser le dessus du quatre-quarts sur la longueur avec un couteau.
 - sans manipulation pendant la cuisson : juste avant la cuisson, disposer un filet de beurre pommade sur le dessus : pour cela, prélever quelques grammes de beurre au début de la recette, le mettre dans un cornet (bricolé avec du papier sulfurisé) et le faire chauffer jusqu'à ce qu'il ait la consistance pommade.
 
-Un vrai quatre quart
+Un vrai quatre-quarts
 --------------------
 
-Un vrai quatre quart, comme le nom l'indique, est composé de… quatre quarts. C'est pour ça que traditionnellement, il faut peser les œufs, et ajuster le poids des autres ingrédients selon le poids des œufs.
+Un vrai quatre-quarts, comme le nom l'indique, est composé de… quatre quarts. C'est pour ça que traditionnellement, il faut peser les œufs, et ajuster le poids des autres ingrédients selon le poids des œufs.
 
 Ici, en séparant le blanc des jaunes, c'est un peu pénible, et il n'y a pas de méthode entièrement satisfaisantes, je liste ici les différentes possibilités :
 - Version calcul mental (soustraction) : peser le saladier des blancs, tarer la balance avec le saladier des jaunes, séparer les blancs des jaunes, et ensuite peser le saladier des blancs plein. À la fin, on a le poids du saladier des blancs vide, le poids du saladier des blancs plein, le poids des jaunes, et on peut retrouver le poids des œufs.
@@ -53,8 +53,8 @@ Ici, en séparant le blanc des jaunes, c'est un peu pénible, et il n'y a pas de
 Notes
 -----
 
-Je cherchais à reproduire un quatre-quart que j'avais goûté, qui était mœlleux sans être sec en bouche, cependant je n'arrivais qu'à obtenir des quatre-quart mœlleux mais secs.
+Je cherchais à reproduire un quatre-quarts que j'avais goûté, qui était mœlleux sans être sec en bouche, cependant je n'arrivais qu'à obtenir des quatre-quarts mœlleux mais secs.
 C'est la première fois que j'ai testé une recette avec des blancs montés en neige et sans levure chimique que j'ai réussi à retrouver cette texture !
-La recette (qui fonctionnait bien) était la-dite "version simple", j'ai par la suite cherché à optimiser l'incorporation des blancs dans la pâte à quatre-quart :
+La recette (qui fonctionnait bien) était la-dite "version simple", j'ai par la suite cherché à optimiser l'incorporation des blancs dans la pâte à quatre-quarts :
 - en mettant une partie du sucre dans les blancs, ça les "serre" et ils se tiennent mieux lors de l'incorporation,
 - après l'ajout de la farine, dès que c'est homogène, la pâte est encore un peu liquide, mais en attendant quelques minutes la farine absorbe l'humiditié et ça devient très pâteux : c'est pour ça que je recommande d'incorporer les blancs immédiatement après avoir homogénéisé la farine.
