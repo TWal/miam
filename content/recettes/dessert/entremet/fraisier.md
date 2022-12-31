@@ -109,3 +109,5 @@ On peut faire une génoise sans bain-marie, mais ça prend beaucoup plus de temp
 Il y a diverses façons d'adapter ce procédé :
 - j'ai vu des personnes boucher leur évier, le remplir d'eau chaude et battre les œufs dedans,
 - pour ma part je fais un bain-marie en utilisant la cuve du robot jusqu'à 45 degrés, puis je sors du bain-marie et je fouette au robot.
+
+{{< img "part" >}}
