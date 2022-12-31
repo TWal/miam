@@ -7,7 +7,6 @@ portions:
 ingredients:
   - nom: "[Pâte sucrée](/recettes/dessert/tarte/pate_sucree/)"
     qt: 1
-    comm: pour 125g à 200g de farine
   - section: Appareil à crème prise
   - nom: Chocolat
     qt: 200g
@@ -20,10 +19,8 @@ ingredients:
   - section: Glaçage
   - nom: Chocolat
     qt: 50g
-  - nom: Sucre
-    qt: 10g
-  - nom: Lait
-    qt: 25g
+  - nom: Huile neutre
+    qt: 20g
 ---
 
 Recette
@@ -41,4 +38,5 @@ Montage :
 2. Faire cuire la pâte sucrée à blanc (environ 10min à 180).
 3. Mettre l'appareil à crème prise dans la pâte cuite, et remettre au four (c'est cuit quand ça commence un peu à gonfler, au bout d'une dizaine de minutes).
 4. Attendre que ça refroidisse.
-5. Étaler le glaçage sur la tarte, lisser avec une spatule pour avoir un glaçage bien plat.
+5. Étaler le glaçage sur la tarte.
+6. Faire refroidir au frigo (ou congélateur si on est pressé) afin que le glaçage fige.
