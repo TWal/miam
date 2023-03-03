@@ -50,6 +50,9 @@ ingredients:
   - nom: Huile neutre
     qt: 20g
     comm: e.g. colza, arachide, tournesol, …
+  - section: Chablonage
+  - nom: Chocolat
+    qt: 25g
 ---
 
 Recette
@@ -75,15 +78,36 @@ Crème au beurre au café :
 6. Ajouter le beurre pommade et le café soluble, continuer de battre jusqu'à homogénéisation.
 
 Ganache :
-1. Faire fondre le chocolat et le beurre et tout mélanger.
+faire fondre le chocolat et le beurre et tout mélanger.
 
 Sirop d'imbibage :
-1. Tout mélanger et chauffer pour dissoudre le sucre et le café.
+tout mélanger et chauffer pour dissoudre le sucre et le café.
 
 Glaçage :
-1. Faire fondre le chocolat et tout mélanger.
+faire fondre le chocolat et tout mélanger.
 
-Montage :
+Chablonage :
+faire fondre le chocolat.
+
+L'opéra est composé des couches suivantes (de bas en haut) :
+chablonage, biscuit, crème, biscuit, ganache, biscuit, crème, glaçage.
+De plus, les biscuits sont imbibés du sirop.
+
+Montage à l'envers (un peu plus compliqué, mais permet d'avoir un dessus lisse, et un chablonage) :
+1. Poser le cercle à entremet sur une surface transportable, avec un papier rhodoïd sur le bord intérieur.
+2. Disposer sur le fond la moitié de la crème au beurre, lisser à l'aide d'une spatule coudée.
+3. À l'aide d'un pinceau, imbiber le dessous d'un disque de biscuit joconde, le mettre dans le cercle puis imbiber le dessus.
+4. Étaler une couche de ganache.
+5. Ajouter un biscuit joconde imbibé de sirop des deux côtés.
+6. Étaler une couche de crème au beurre au café.
+7. Ajouter un biscuit joconde imbibé de sirop d'un seul côté (côté intérieur du gâteau, en bas).
+8. Faire fondre le chocolat pour le chablonage et l'étaler sur le dessus biscuit.
+9. Mettre au frais quelques heures.
+10. Retourner le gâteau (éventuellement décercler et re-cercler si besoin, pour translater verticalement le cercle).
+11. Verser le glaçage fondu sur le dessus du gâteau (la première couche de crème au beurre qui devrait être très lisse).
+12. Comme pour faire une crêpe, incliner le gâteau pour que le glaçage s'étale bien sur tout le dessus.
+
+Montage à l'endroit (moins compliqué, mais moins joli, sans chablonage) :
 1. Poser le cercle à entremet sur une surface transportable, avec un papier rhodoïd sur le bord intérieur.
 2. À l'aide d'un pinceau, imbiber le dessous d'un disque de biscuit joconde, le mettre dans le cercle puis imbiber le dessus.
 3. Étaler une couche de crème au beurre au café.
@@ -94,15 +118,25 @@ Montage :
 8. Étaler le glaçage.
 9. Mettre au frigo quelques heures.
 
+Ordre du montage
+----------------
+
+Le montage à l'envers permet de faire en sorte que la crème au beurre sur le dessus soit bien lisse
+(puisque à l'envers, elle est en bas sur le support qui est plat).
+Par la suite, étaler dessus le glaçage sans spatule permet de ne pas faire de trace sur le dessus du gâteau.
+
+Lorsqu'on fait un montage à l'endroit, je trouve que le chablonage se détache trop facilement du biscuit et que ça rend le gâteau pénible à manger.
+C'est pourquoi je conseille de l'omettre.
+Il n'y a pas ce problème pour le montage à l'envers, probablement pour de simples raisons de gravité.
+
 Notes
 -----
 
 Traditionnellement, l'opéra se trouve sous forme carré et pas ronde, mais je ne possède qu'un cercle donc j'ai adapté selon mon matériel.
 
-Usuellement, il y a une fine couche de chocolat sur le dessous du biscuit de bas, mais lorsque je mange le gâteau je trouve que c'est plus pénible qu'autre chose donc je l'ai omis dans cette recette.
-
 Le glaçage se fait habituellement avec de l'huile de pépin de raisins, la plus neutre des huiles neutres, malheureusement on trouve rarement ça dans une cuisine.
 
 La crème au beurre peut se faire avec des œufs entiers, des blancs, ou des jaunes : j'ai décidé de la faire qu'avec des jaunes afin de ne pas avoir de surplus de jaunes à la fin de cette recette.
 
-Pour le café soluble, je choisis du décaféiné et je le passe un coup au blender pour vraiment avoir une poudre qui se dissout bien par la suite.
+Pour le café soluble, je choisis du décaféiné que je passe un coup au blender pour vraiment avoir une poudre qui se dissout bien par la suite.
+De plus, je le tamise pour éviter tout grumeau.
