@@ -32,9 +32,9 @@ ingredients:
     comm: pour monter avec la crème pâtissière
   - section: Sirop d'imbibage
   - nom: Sucre
-    qt: 150g
+    qt: 50g
   - nom: Eau
-    qt: 150g
+    qt: 50g
   - nom: Kirsch
     qt: 10g
   - section: Pâte d'amande

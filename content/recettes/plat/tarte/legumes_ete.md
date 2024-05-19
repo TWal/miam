@@ -12,7 +12,7 @@ ingredients:
     qt: 1kg
     comm: e.g. 1 aubergine, 1 courgette, 1 tomate, 2 poivrons
   - nom: Œuf
-    qt: 2
+    qt: 3
   - nom: Crème fraîche
     qt: 20cL
   - nom: Concentré de tomate
