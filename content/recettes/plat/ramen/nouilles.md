@@ -1,22 +1,23 @@
 ---
 title: Nouilles
 origine: "Adapté de [The Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/) par Ramen_Lord"
+vegan: vegan
 photo: true
 portions:
-    qt: 10
-    nom: bols
+    qt: 1
+    nom: bol
 ingredients:
   - nom: Farine
-    qt: 1kg
+    qt: 100g
     comm: en choisir une avec un maximum de protéines
   - nom: Eau
-    qt: 400g
+    qt: 40g
     comm: "40%"
   - nom: Sel
-    qt: 10g
+    qt: 1g
     comm: "1%"
   - nom: "[Kansui](/recettes/plat/ramen/nouilles_kansui/)"
-    qt: 10g
+    qt: 1g
     comm: "1%"
   - nom: Fécule de maïs
     qt: QS
@@ -32,6 +33,12 @@ La pâte pour les nouilles à ramen ressemble à des pâtes fraiches classiques,
 
 Ces deux facteurs font que la pâte à nouilles à ramen est assez dure, donc plus difficile à travailler que pour les pâtes fraiches classiques.
 
+### Type de farine
+
+Il faut utiliser une farine avec un maximum de protéines et donc de gluten.
+J'en utilise une avec 12g de protéines pour 100g,
+et remplace 1g de farine par 1g de gluten pur (donc 99g de farine et 1g de gluten).
+
 ### Matériel nécessaire
 
 Il faut absolument une machine à pâte pour suivre cette recette.
@@ -45,7 +52,7 @@ Si on force trop, ça peut la casser, c'est entre-autres pour ça que dans cette
 
 ### Étape 1 : mélange des ingrédients
 
-1. Dans un robot pâtissier muni de la feuille, mettre la farine (pour mon robot ça faisait beaucoup de mettre 1kg de pâte en une fois, je procède maintenant par 500g).
+1. Dans un robot pâtissier muni de la feuille, mettre la farine (pour mon robot je peux aller jusqu'à 800g de farine d'un coup, mais pas plus).
 2. Dans un autre contenant, mettre l'eau, le sel, le kansui et mélanger pour dissoudre.
 3. Mettre le robot à vitesse lente, et incorporer l'eau petit à petit (je le fais cuillère par cuillère).
 
@@ -102,12 +109,14 @@ Couvrir d'un torchon et attendre environ 30 minutes.
 
 ### Étape 7 : pesée et boulage
 
-1. Faire des tas de 140g (il devrait y en avoir 10).
-2. Pour chaque tas, avec les mains, presser très fort les nouilles les unes contre les autres pour faire une boule.
+1. Faire des tas de 140g.
+2. Les rouler pour que les tas ne s'emmêlent pas avec les autres.
 
-Le but de la dernière étape est multiple :
-- en pressant les nouilles ainsi, elles ne sont plus droites mais obtiennent une forme intéressante en zig-zag,
-- ça fait une boule qui correspond à une portion pour un bol, ce qui est bien pratique à manipuler.
+Pour la deuxième étape, il est parfois recommandé de presser les nouilles pour faire une boule,
+afin qu'elles ne soient plus droites mais obtiennent une forme intéressante en zig-zag,
+qui fait mieux adhérer le bouillon à la nouille.
+Je ne fais plus ça, parce que ça a tendance à casser les nouilles,
+ce qui fait qu'on se retrouve avec un tas de mini-nouilles au fond du bol.
 
 ### Étape 8 : maturation
 

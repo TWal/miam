@@ -1,6 +1,7 @@
 ---
 title: "Huile aromatique : oignons nouveaux"
 origine: "[Une vidéo youtube](https://www.youtube.com/watch?v=NnnEY7SZIHM&t=118s)"
+vegan: vegan
 portions:
     qt: 500mL
     nom: d'huile

@@ -1,6 +1,7 @@
 ---
 title: "Garniture : oignon rouge mariné"
 origine: "[Une vidéo youtube](https://www.youtube.com/watch?v=K4HbmPu_M_4)"
+vegan: vegan
 ingredients:
   - nom: Oignon rouge
     qt: 1

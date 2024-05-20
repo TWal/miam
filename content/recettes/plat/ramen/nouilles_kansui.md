@@ -1,6 +1,7 @@
 ---
 title: "Nouilles : Kansui (carbonate de soude)"
 origine: "[The Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/) par Ramen_Lord"
+vegan: vegan
 portions:
     qt: 350
     nom: grammes

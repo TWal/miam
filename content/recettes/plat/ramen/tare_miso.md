@@ -1,6 +1,7 @@
 ---
 title: "Tare : miso"
 origine: Création personnelle
+vegan: vegan
 portions:
     qt: 8
     nom: bols

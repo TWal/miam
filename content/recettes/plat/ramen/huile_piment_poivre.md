@@ -1,6 +1,7 @@
 ---
 title: "Huile aromatique : piment et poivre"
 origine: "[Une vidéo youtube](https://www.youtube.com/watch?v=NnnEY7SZIHM&t=311s)"
+vegan: vegan
 portions:
     qt: 500mL
     nom: d'huile

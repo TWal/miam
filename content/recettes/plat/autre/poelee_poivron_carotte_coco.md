@@ -1,6 +1,7 @@
 ---
 title: Poêlée poivrons-carottes au lait de coco & quinoa
 quali: true
+vegan: vegan
 origine: Adaptée d'une [recette de tobast](https://nomnom.tobast.fr/recettes/plats/poelee_poivrons_carottes_coco/)
 portions: 4
 ingredients:

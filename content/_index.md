@@ -9,4 +9,4 @@ Toutes les recettes sont végétariennes, beaucoup sont vegan {{< badge "badge_v
 
 Certaines recettes ont été produites un grand nombre de fois, et sont donc dites "bien poncée" {{<badge "badge_quali" "true" >}} ce qui veut dire que la quantité des ingrédients ainsi que le procédé est fiable.
 
-Il m'arrive parfois d'apprécier la beauté d'un plat et de l'immortaliser, certaines recettes sont donc accompagnées d'une photo {{<badge "badge_photo" "true" >}}.
+Parce que c'est toujours plus sympa de savoir quel est le résultat attendu d'une recette, certaines sont accompagnées d'une photo {{<badge "badge_photo" "true" >}}.
